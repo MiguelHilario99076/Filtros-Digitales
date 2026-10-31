@@ -50,6 +50,11 @@ El programa genera:
 5. Señal filtrada mediante filtro FIR.
 6. Respuesta en frecuencia del filtro pasa bajos.
 
+## Evidencias
+
+1. Comparacion de filtros
+2. Respuesta de frecuencia
+
 ## Conclusiones
 
 Los filtros digitales permiten eliminar ruido y seleccionar componentes específicas de frecuencia. Los filtros Butterworth mostraron una adecuada atenuación de las frecuencias no deseadas, mientras que el filtro FIR proporcionó una respuesta estable y lineal en fase.
